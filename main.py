@@ -1,1 +1,1 @@
-print(max([int(input()) for i in range(int(input('enter numbers count: ')))]))
+print(min([int(input()) for i in range(int(input('enter numbers count: ')))]))
