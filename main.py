@@ -1,1 +1,1 @@
-print(max(map(int, input().split())))
+print(max([int(input()) for i in range(int(input('enter numbers count: ')))]))
